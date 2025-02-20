@@ -43,11 +43,6 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-## 📊 Gerando Relatório do SQLite
-Para gerar um relatório Excel a partir do banco de dados SQLite, execute:
-```sh
-python src/save_excel_to_sqlite.py
-```
 
 ---
 
