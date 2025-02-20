@@ -22,7 +22,7 @@ DESAFIO_RPA/
 
 ### 1️⃣ Clonar o Repositório
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/IuryyCosta/RPA-Desafio.git
 cd DESAFIO_RPA
 ```
 
